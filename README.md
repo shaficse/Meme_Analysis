@@ -24,3 +24,8 @@ matplotlib
 sklearn
 jupyter notebook
 ```
+
+## Code and data 
+- [Training Notebook](https://github.com/shaficse/Meme_Analysis/blob/main/code/Meme_training.ipynb)
+- [Inference Notebook](https://github.com/shaficse/Meme_Analysis/blob/main/code/predict_.ipynb)
+- [Training Data](https://github.com/shaficse/Meme_Analysis/blob/main/code/meme_img_des_caption_210310.csv)
